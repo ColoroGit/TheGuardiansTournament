@@ -1,0 +1,8 @@
+Para hacer uso del programa, deberá descomprimir la carpeta que contiene los archivos "Guardians.txt", "INSTALL.txt", "README.txt" y "TheGuardiansTournament.c", en una única carpeta que pueda reconocer y conozca su ruta de acceso. 
+
+A continuación, deberá acceder a su consola de Windows (u otro sistema operativo, aunque se recomienda el primero), e ir a la dirección de la carpeta en la que se encuentra el programa. Posterior a eso deberá correr el programa escribiendo el siguiente texto: ".\TheGuardiansTournament Guardians.txt".
+
+Una vez llegados a este punto iniciará el juego, y podrá interactuar desde la consola. Simplemente siga las instrucciones del mismo programa, y diviértase con la experiencia.
+
+***Se recomienda no cambiar los nombres ni los contenidos de los archivos para evitar cualquier tipo de error y/o inconveniente, a menos de que cuente con los conocimientos necesarios***
+
